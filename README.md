@@ -1,6 +1,6 @@
 # Hiring README
 
-Hi there, you might have found my github via my resume - but noticed nothing is up. That's cause they're private repos. You will (and should) [contact me](xuan.lim@u.nus.edu) to ask me for access to view my codebases. 
+Hi there, you might have found my github via my resume - but noticed nothing is up. That's cause they're private repos. You will have to (and should) [contact me](xuan.lim@u.nus.edu) to ask me for access to view my codebases. 
 
 ### On my background: 
 I'm an embedded systems nerd who studies Data Science and Computer Science undergraduate in NUS. I love working on stuff that makes people's lives easier. In my years of undergraduate explorations that often meant interdisciplinary things - which is why you'll notice the wide array of fields in my side projects. But these days I consider myself an (Embedded Systems) Software Engineer who's not afraid to use all her toolchains within her arsenal to solve a problem ( - without overcomplicating, and if it benefits, of course.)
