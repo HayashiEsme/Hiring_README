@@ -9,7 +9,7 @@ Recently I've worked at Intel's iCDG as an Embedded Systems Software Engineering
 
 If you've perhaps not seen my CV and would like to have a look, you can also [contact me](xuan.lim@u.nus.edu) and I'll send you a copy
 
-Things I've Made:
+Things I've Made (in my own time):
 - "World of Warcraft Realm Inspect" - an app that helps users pick a new realm that they will find a good community to play with, whatever their playstyle of choice (Progress: Frontend (iOS app) 75% complete, Backend (Flask, hosted on my Raspi): WIP)
 - A 3D-Printed Robot Arm, printed, assembled and programmed - Something I'm in the process of making, pending a new 3D Printer of mine to come 
 - (I've attempted) a replication of a Machine Learning paper 
